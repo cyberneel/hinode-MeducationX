@@ -1,4 +1,4 @@
-module github.com/gethinode/hinode
+module github.com/cyberneel/hinode-MeducationX
 
 go 1.19
 
