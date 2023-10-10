@@ -1,6 +1,7 @@
 # toml-docs-start main
-title = "Hinode"
-copyright = "Copyright © 2023 Mark Dumay."
+title = "MeducationX"
+copyright = "Copyright © 2023 MeducationX."
+author = "Neelesh Chevuri"
 paginate = 9
 enableGitInfo = true
 # toml-docs-end main
@@ -34,6 +35,8 @@ mediaType = "text/netlify"
 baseName = "_redirects"
 isPlainText = true
 notAlternative = true
+  [footer]
+    socialTitle = "TESTINGGGG $#$$#$#$"
 
 [mediaTypes."text/netlify"]
 delimiter = ""
@@ -123,3 +126,8 @@ home = ["HTML", "RSS", "REDIR"]
   [[module.imports]]
     path = "github.com/gethinode/mod-lottie"
 # toml-docs-end modules
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'self' 'unsafe-eval' 'unsafe-inline' www.google-analytics.com www.googletagmanager.com fonts.googleapis.com maxcdn.bootstrapcdn.com fonts.gstatic.com;"
