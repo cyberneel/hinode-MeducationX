@@ -20,6 +20,14 @@
     --bs-btn-active-border-color: none;
 }
 
+.rounded {
+    --bs-border-radius: 0.75rem;
+}
+
+.card-img-wrap {
+    border-radius: 0.75rem;
+}
+
 .btn-social:hover,
 .btn-social:focus,
 .btn-social:active,
