@@ -129,7 +129,7 @@
 
 # toml-docs-start theme-colors
 [style]
-    primary = "#d43900"
+    primary = "#242424"
     secondary = "#6c757d"
     success = "#198754"
     info = "#0dcaf0"
