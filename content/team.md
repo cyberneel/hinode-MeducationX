@@ -9,19 +9,19 @@ showComments: false
 {{< image src="/img/BLUELOGOONLY.png" class="img-fluid w-50 rounded" wrapper="text-center" >}}
 
 {{< card-group class="text-center border-0" padding="3" >}}
-    {{< card title="Sahad Valiani" thumbnail="img/sahad.png" >}}
+    {{< card path="sahad" title="Sahad Valiani" thumbnail="img/sahad.png" >}}
         Founder & President
     {{< /card >}}
-    {{< card title="Adway Kulkarni" thumbnail="img/adway.png" >}}
+    {{< card path="adway" title="Adway Kulkarni" thumbnail="img/adway-close.png" >}}
         Co-Founder & Vice President
     {{< /card >}}
-    {{< card title="Neelesh Chevuri" thumbnail="img/neelesh-close.png" >}}
+    {{< card path="neelesh" title="Neelesh Chevuri" thumbnail="img/neelesh-close.png" >}}
         Cheif Technology Officer
     {{< /card >}}
-    {{< card title="Hasini Rachapudi" thumbnail="img/hasini.png" >}}
+    {{< card path="hasini" title="Hasini Rachapudi" thumbnail="img/hasini.png" >}}
         Blog Writer
     {{< /card >}}
-    {{< card title="Wafiya Wadud" thumbnail="img/wafiya-close.png" >}}
+    {{< card path="wafiya" title="Wafiya Wadud" thumbnail="img/wafiya-close.png" >}}
         Graphic Designer
     {{< /card >}}
 {{< /card-group >}}
