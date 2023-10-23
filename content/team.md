@@ -6,7 +6,7 @@ updated: 2023-10-22
 showComments: false
 ---
 
-{{< image src="/img/logo_var.svg#logo" class="img-fluid w-50" wrapper="text-center" >}}
+{{< image src="/img/BLUELOGOONLY.png" class="img-fluid w-50 rounded" wrapper="text-center" >}}
 
 {{< card-group class="text-center border-0" padding="3" >}}
     {{< card title="Sahad Valiani" thumbnail="img/sahad.png" >}}
