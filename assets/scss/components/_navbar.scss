@@ -13,6 +13,12 @@
 
 .nav-link {
     margin: 0 .15rem;
+    border-radius: 0.5rem;
+    transition: 0.3s;
+}
+
+.nav-link:hover {
+    background-color: rgba(0, 0, 0, 0.12);
 }
 
 .navbar-contrast .nav-link.active, .navbar-contrast .nav-link.show, .navbar-contrast .nav-link:hover {
