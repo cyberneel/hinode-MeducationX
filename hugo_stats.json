@@ -103,10 +103,10 @@
       "fa-facebook",
       "fa-fw",
       "fa-github",
+      "fa-instagram",
       "fa-link",
       "fa-linkedin",
       "fa-magnifying-glass",
-      "fa-medium",
       "fa-share-nodes",
       "fa-whatsapp",
       "fa-x-twitter",
@@ -145,6 +145,7 @@
       "mb-4",
       "mb-5",
       "me-auto",
+      "meducation-background",
       "middle-bar",
       "min-vh-100",
       "ms-auto",
@@ -217,7 +218,8 @@
       "toggler-icon",
       "top-bar",
       "w-100",
-      "w-50"
+      "w-50",
+      "zoom-text"
     ],
     "ids": [
       "btn-webshare",

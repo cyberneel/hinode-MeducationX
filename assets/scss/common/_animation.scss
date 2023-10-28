@@ -6,6 +6,21 @@
     transform: rotate(-5deg);
 }
 
+.zoom-text {
+    transition: 0.3s;
+}
+
+.zoom-text:hover {
+    transform: scale(1.05) perspective(1px);
+}
+
+.meducation-background {
+    background-image: url('/img/MeducationBackdrop.png');
+    background-size: 25%;
+    background-color: rgba($color: #ffffff, $alpha: 0.65);
+    background-blend-mode: lighten;
+}
+
 @media (prefers-reduced-motion: no-preference) {
     .reveal {
         position: relative;

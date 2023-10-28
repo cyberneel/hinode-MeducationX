@@ -12,7 +12,7 @@
             <div class="col col-md-2 d-none d-md-block"></div>
             <div class="col col-sm-6 col-md-4">
                 {{ if gt .Site.Menus.social 0 }}
-                    <div class="fs-3 fw-bold">{{ or .Site.Params.footer.socialTitle .Site.Params.social.title }}</div>
+                    <div class="fs-3 fw-bold zoom-text">{{ or .Site.Params.footer.socialTitle .Site.Params.social.title }}</div>
                     <p>{{ or .Site.Params.footer.socialCaption .Site.Params.social.caption }}</p>
                 {{ end }}
             </div>

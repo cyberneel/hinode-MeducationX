@@ -14,22 +14,22 @@
   weight = 20
 
 [[social]]
-  name = "LinkedIn"
-  pre = "fab linkedin"
-  url = "https://linkedin.com/"
+  name = "Instagram"
+  pre = "fab instagram"
+  url = "https://instagram.com/MeducationX"
   weight = 10
 
 [[social]]
   name = "GitHub"
   pre = "fab fa-github"
-  url = "https://github.com/"
+  url = "https://github.com/MeducationX"
   weight = 20
 
-[[social]]
-  name = "Medium"
-  pre = "fab medium"
-  url = "https://medium.com/"
-  weight = 30
+# [[social]]
+#   name = "Medium"
+#   pre = "fab medium"
+#   url = "https://medium.com/"
+#   weight = 30
 
 # toml-docs-start sample-navigation
 [[sample]]

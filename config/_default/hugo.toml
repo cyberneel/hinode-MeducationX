@@ -8,7 +8,7 @@ enableGitInfo = true
 
 # additional settings
 # googleAnalytics = "G-xxxxxxxxxx"
-baseURL = "https://example.com/"
+baseURL = "https://meducationx.github.io/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true

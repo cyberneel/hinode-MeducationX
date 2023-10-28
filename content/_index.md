@@ -1,7 +1,7 @@
 ---
 title: Welcome to MeducationX!
 thumbnail:
-    url: /img/sunrise.jpg
+    url: /img/WhiteLogotrim.png
     author: Neelesh Chevuri
     authorURL: https://unsplash.com/@hoanvokim
     origin: https://unsplash.com/photos/ZX6BPboJrYk
