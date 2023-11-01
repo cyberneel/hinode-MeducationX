@@ -8,7 +8,7 @@ showComments: false
 
 {{< image src="/img/BLUELOGOONLY.png" class="img-fluid w-50 rounded" wrapper="text-center" >}}
 
-{{< card-group class="text-center border-0" padding="3" >}}
+{{< card-group class="text-center border-0" padding="3" gutter="5" >}}
     {{< card path="sahad" title="Sahad Valiani" thumbnail="img/sahad.png" >}}
         Founder & President
     {{< /card >}}
