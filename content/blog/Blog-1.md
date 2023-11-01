@@ -3,7 +3,7 @@ author: MaeducationX
 title: Spooky Spectrum of Illnesses
 date: 2023-10-31
 description: In honor of Halloween, here are some spooky diseases and disorders that deserve to be addressed.
-tags: ["blog"]
+tags: ["blog", "article"]
 thumbnail:
   url: img/Blogs/Blog-1/1.png
 #  author: Tim de Groot

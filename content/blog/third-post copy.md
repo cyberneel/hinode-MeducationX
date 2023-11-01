@@ -4,6 +4,7 @@ title: Third post
 date: 2022-12-01
 description: This is my third blog post.
 tags: ["blog"]
+draft: true
 thumbnail:
   url: https://picsum.photos/id/184/4288/2848.jpg
   author: Tim de Groot

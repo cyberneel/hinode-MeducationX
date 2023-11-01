@@ -4,6 +4,7 @@ title: Second post
 date: 2022-11-01
 description: This is my second blog post.
 tags: ["blog"]
+draft: true
 thumbnail:
   url: img/kkkk.jpeg
   author: Thom
