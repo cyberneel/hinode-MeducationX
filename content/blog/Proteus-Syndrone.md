@@ -1,7 +1,7 @@
 ---
 author: MaeducationX
 title: Proteus Syndrome
-date: 2023-10-31
+date: 2023-10-28
 description: A genetic disorder that results in the overgrowth in various tissues of the body.
 tags: ["blog", "posts"]
 thumbnail:
@@ -12,11 +12,10 @@ thumbnail:
 #  originURL: https://unsplash.com/photos/yNGQ830uFB4
 ---
 \
-{{< image src="img/Posts/Proteus-Syndrome/1.png" mode="false" wrapper="col-6 mx-auto" >}}
-\
-{{< image src="img/Posts/Proteus-Syndrome/2.png" mode="false" wrapper="col-6 mx-auto" >}}
-\
-{{< image src="img/Posts/Proteus-Syndrome/3.png" mode="false" wrapper="col-6 mx-auto" >}}
-\
-{{< image src="img/Posts/Proteus-Syndrome/4.png" mode="false" wrapper="col-6 mx-auto" >}}
+{{< carousel ratio="1x1" class="col-sm-12 col-lg-8 mx-auto" >}}
+  {{< img src="img/Posts/Proteus-Syndrome/1.png" >}}
+  {{< img src="img/Posts/Proteus-Syndrome/2.png" >}}
+  {{< img src="img/Posts/Proteus-Syndrome/3.png" >}}
+  {{< img src="img/Posts/Proteus-Syndrome/4.png" >}}
+{{< /carousel >}}
 

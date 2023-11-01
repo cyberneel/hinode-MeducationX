@@ -243,7 +243,7 @@
                     <img src="{{if $absoluteURL }}{{ absURL $logoLight }}{{ else }}{{ $logoLight }}{{ end }}" class="d-none-dark" alt="{{ $title }} logo" height="30">
                     <img src="{{if $absoluteURL }}{{ absURL $logoDark }}{{ else }}{{ $logoDark }}{{ end }}" class="d-none-light" alt="{{ $title }} logo" height="30">
                 {{- else if $logo -}}
-                    <img src="{{if $absoluteURL }}{{ absURL $logo }}{{ else }}{{ $logo }}{{ end }}" alt="{{ $title }} logo" height="30">
+                    <img class="round-cust-7px" src="{{if $absoluteURL }}{{ absURL $logo }}{{ else }}{{ $logo }}{{ end }}" alt="{{ $title }} logo" height="30">
                 {{- else -}}
                     <span class="fw-bold">{{ $title }}</span>
                 {{- end -}}
