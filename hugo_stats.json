@@ -64,6 +64,7 @@
       "card-title",
       "card-zoom",
       "col",
+      "col-6",
       "col-lg-2",
       "col-lg-4",
       "col-md-2",
@@ -230,15 +231,29 @@
       "body-movement-after-death",
       "btn-webshare",
       "cotards-syndrome",
+      "elephantiasis",
       "exploding-head-syndrome",
+      "fibrodysplasia-ossificans-progressiva-fop",
+      "harlequin-ichthyosis",
       "hemorrhaging-in-eye",
+      "hypertrichosis",
+      "leprosy-hansens-disease",
       "navbar-0-collapse",
+      "necrotizing-fasciitis",
+      "pantothenate-kinase-associated-neurodegeneration-pkan",
+      "paraneoplastic-pemphigus",
+      "phantom-limb-syndrome",
       "porphyria",
+      "proteus-syndrome",
+      "purpura-fulminans",
+      "purpura-fulminans-1",
       "sleep-paralysis",
       "sleepwalking",
+      "stevens-johnson-syndrome",
       "toast-container",
       "toast-copied-code-message",
-      "toast-message-email-4"
+      "toast-message-email-4",
+      "toxic-epidermal-necrolysis-ten"
     ]
   }
 }

@@ -26,7 +26,7 @@
 
 .card-zoom:hover .card-img-wrap img {
     transform: scale(1.1);
-    opacity: 0.5;
+    opacity: 1;
 }
 
 .card-zoom:hover::after .card-img-wrap img {
