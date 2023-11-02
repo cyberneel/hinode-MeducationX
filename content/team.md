@@ -21,7 +21,7 @@ showComments: false
     {{< card path="hasini" title="Hasini Rachapudi" thumbnail="img/hasini.png" >}}
         Blog Writer
     {{< /card >}}
-    {{< card path="wafiya" title="Wafiya Wadud" thumbnail="img/wafiya-close.png" >}}
+    {{< card path="wafiyah" title="Wafiyah Wadud" thumbnail="img/wafiya-close.png" >}}
         Graphic Designer
     {{< /card >}}
 {{< /card-group >}}

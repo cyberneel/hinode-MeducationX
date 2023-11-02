@@ -1,6 +1,6 @@
 ---
-title: Wafiya Wadud
-description: Learn about Wafiya Wadud, our Graphic Designer.
+title: Wafiyah Wadud
+description: Learn about Wafiyah Wadud, our Graphic Designer.
 date: 2023-10-22
 updated: 2023-10-22
 showComments: false
