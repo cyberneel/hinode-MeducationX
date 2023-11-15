@@ -43,7 +43,7 @@
 [home]
     # sections = ["posts"]
     fullCover = false
-    centerHeadline = false
+    centerHeadline = true
     style = ""
 # toml-docs-end home
 
@@ -159,7 +159,8 @@
 # toml-docs-start font
     themeFont = "Inter"
     # themeFontPath = "https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600&display=swap" # external path
-    themeFontPath = "/fonts" # local path
+    # themeFontPath = "/fonts" # local path
+    themeFontPath = "https://fonts.googleapis.com/css2?family=Ubuntu&display=swap"
     fontSizeBase = "1rem" # assumes the browser default, typically '16px'
 # toml-docs-end font
 # toml-docs-start build
