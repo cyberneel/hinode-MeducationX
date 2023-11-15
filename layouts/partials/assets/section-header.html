@@ -20,7 +20,7 @@
     {{- end -}}
 {{- end -}}
 
-<div class="container-fluid p-4 px-xxl-0">
+<div class="container-fluid p-4 px-xxl-0 bg-primary bg-opacity-10 rounded section-header">
     {{ with $title }}<p class="display-4 mt-3{{ if and page.IsHome site.Params.home.centerHeadline }} text-center{{ end }}">{{ . }}</p>{{ end }}
     {{ with $description }} <p class="lead mb-5">{{ . }}</p>{{ end }}
     {{- if $content -}}

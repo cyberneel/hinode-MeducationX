@@ -26,6 +26,7 @@
         {{- $moreTitle = or $moreTitle (printf (T "more" (pluralize $sectionTitle))) -}}
 
         {{- partial "assets/section-list.html" (dict 
+            "title" $sectionTitle
             "page" $page 
             "section" $section 
             "home" true 
