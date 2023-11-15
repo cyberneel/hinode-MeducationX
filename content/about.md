@@ -1,32 +1,30 @@
 ---
 title: About
-description: Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5.
-date: 2022-04-11
-updated: 2023-08-02
+description: Learn about MeducationX.
+date: 2023-11-14
 showComments: false
 ---
 
-{{< image src="/img/logo_var.svg#logo" class="img-fluid w-50" wrapper="text-center" >}}
-
-{{< card-group class="text-center border-0" padding="3" >}}
-    {{< card title="Bootstrap framework" icon="fab bootstrap" >}}
-        Build fast, responsive sites with Bootstrap 5. Easily customize your site with the source Sass files.
+{{< image src="/img/BLUELOGOONLY.png" class="img-fluid w-50 rounded" wrapper="text-center" >}}
+\
+&emsp;At MeducationX, our commitment to spreading medical knowledge, improving community health, and providing essential life-saving skills is unwavering.Join us in our journey to empower individuals, improve community health, and make essential medical knowledge a universal resource.
+\
+{{< card-group class="text-center border-0" padding="3" gutter="4" >}}
+    {{< card title="About MeducationX" icon="fas circle-info fa-3x" >}}
+        At MeducationX, we are driven by a passion for empowering communities through education and skill development in the field of medicine. Our commitment is to democratize medical knowledge, making it accessible to all who seek to enhance their understanding of healthcare and emergency medical practices.
     {{< /card >}}
-    {{< card title="Full text search" icon="fas magnifying-glass" >}}
-        Search your site with FlexSearch, a full-text search library with zero dependencies.
+    {{< card title="Our Vision" icon="fas fa-eye fa-3x" >}}
+        At MeducationX, we believe that knowledge is the cornerstone of a healthier, more resilient community. Our vision is to make essential medical information and skills accessible to all, bridging the gap between medical expertise and the public.
     {{< /card >}}
-    {{< card title="Development tools" icon="fas code" >}}
-        Use Node Package Manager to automate the build process and to keep track of dependencies.
+    {{< card title="Our Mission" icon="fas fa-map fa-3x" >}}
+        MeducationX is dedicated to bridging the gap between medical expertise and the public. We aim to equip individuals with essential medical skills, nurture an understanding of health-related topics, and foster a community that thrives on knowledge and preparedness.
     {{< /card >}}
 {{< /card-group >}}
-
-Additional features include:
-
-* Switching between light mode and dark mode
-* Support for multiple languages
-* Reusable Bootstrap components through configurable shortcodes and partials
-* Versioned documentation, including sidebar navigation and version switcher
-* Embedded comments through light-weight integration with GitHub via
-* Reponsive image handling for multiple screen sizes and resolutions
-* Optimized search results, scoring 100 points for SEO on 
-* Secure by default, scoring A+ on 
+{{< card-group class="text-center border-0" padding="3" gutter="4" cols="2">}}
+    {{< card title="What We Do" icon="fas fa-bolt fa-3x" >}}
+        Our initiatives include local workshops focusing on vital skills such as tourniquet application, suturing techniques, and Basic Life Support (BLS) training. In addition, we engage in community service projects, assembling first aid kits for underserved communities. We aim not only to impart knowledge but also to actively contribute to the well-being of our communities.
+    {{< /card >}}
+    {{< card title="Why MeducationX" icon="fas fa-question fa-3x" >}}
+        Our organization is founded on the principles of inclusivity, transparency, and community collaboration. We believe that everyone should have the opportunity to learn and understand essential medical knowledge, ultimately contributing to healthier and more informed communities.
+    {{< /card >}}
+{{< /card-group >}}
