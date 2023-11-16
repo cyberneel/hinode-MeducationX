@@ -57,7 +57,7 @@ Along with benefits, there are also disadvantages and risks.
 
 {{< image src="img/Blogs/Blog-2/image4.png" mode="false" wrapper="col-6 mx-auto" >}}
 
-Coffee: Coffee is known for its relatively high caffeine content. A typical 8-ounce (240-milliliter) cup of brewed coffee contains around 95 milligrams of caffeine. There are around 95 milligrams of caffeine in an 8-ounce (240 milliliter) cup of brewed coffee. However, this might differ greatly based on the type of coffee bean and brewing technique.
+Coffee: Coffee is known for its relatively high caffeine content. A typical 8-ounce (240-milliliter) cup of brewed coffee contains around 95 milligrams of caffeine. However, this might differ greatly based on the type of coffee bean and brewing technique.
 
 Espresso: Espresso is concentrated coffee. A 1-ounce (30-milliliter) shot of espresso contains about 63 milligrams of caffeine.
 
