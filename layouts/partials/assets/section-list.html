@@ -104,9 +104,10 @@
     {{- $partial := "" -}}
 
     <div class="container-fluid {{ with $background }} bg-{{ . }}{{  end }}">
+        <br>
         <div class="container-xxl flex-fill p-0">
             {{- partial "assets/section-header.html" $params -}}
-            
+            <br>
             {{ if eq $layout "card" }}
                 {{- $partial = "assets/card-group.html" -}}
                 {{- $params = merge $params (dict 

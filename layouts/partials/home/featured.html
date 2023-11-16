@@ -12,10 +12,13 @@
                 {{ warnf "DEPRECATED: parameter `Params.home.featurePhoto` has been deprecated in release v0.18"}}
             {{ end }}
             {{- if $thumbnail -}}
-                {{- partial "assets/image.html" (dict "url" $thumbnail "ratio" "16x9" "outerClass" "img-wrap" "innerClass" "rounded" "title" .Site.Title) -}}
+                {{- partial "assets/image.html" (dict "url" $thumbnail "ratio" "16x9" "outerClass" "img-wrap pulse-anim" "innerClass" "rounded" "title" .Site.Title) -}}
             {{ end }}
             <div class="pb-5 d-block d-sm-none"></div>
         </div>
         <div class="col col-lg-2 d-none d-lg-block bg-info order-4"></div>
     </div>
 </div>
+<script type="text/javascript" unsafe-inline>
+    console.log(fetch("https://api.github.com/users/MeducationX", {method:"get", mode:'cors', headers: {}}).then(response =>  {return response.json()}));
+</script>
