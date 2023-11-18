@@ -3,6 +3,7 @@ title: About
 description: Learn about MeducationX.
 date: 2023-11-14
 showComments: false
+layout: noo
 ---
 
 {{< image src="/img/BLUELOGOONLY.png" class="img-fluid w-50 rounded" wrapper="text-center" >}}

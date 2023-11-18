@@ -21,9 +21,7 @@
     <head>
         {{ block "head" . }}{{ end -}}
     </head>
-
     <body>
-        <div class="snow" style=""></div>
         {{- partial "footer/scripts.html" (dict "filename" "js/critical.bundle.js" "match" "js/critical/**.js" "header" true "page" .) -}}
         <div class="d-flex flex-column meducation-background min-vh-100{{ if and .IsHome .Site.Params.home.style }} {{ .Site.Params.home.style }}{{ end }}">
             <div class="{{ if .Site.Params.navigation.fixed }}mb-4{{ end }}">
@@ -110,6 +108,6 @@
 	"outerWidth": 50,
 	"outerHeight": 50
       };
-    //magicMouse(options);
+    magicMouse(options);
 </script>
 </html>

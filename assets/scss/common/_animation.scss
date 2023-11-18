@@ -48,6 +48,7 @@ $grad: ();
 @keyframes snow {
   to {
     transform: translateY($w + px);
+    overflow: hidden;
   }
 }
 

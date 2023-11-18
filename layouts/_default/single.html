@@ -92,6 +92,8 @@
         <div class="mt-5 small">
             {{ partial "utilities/git.html" . }}
         </div>
+    {{ else if eq .Layout "noo" }}
+        <div></div>
     {{ else if ne .Layout "minimal" }}
         <div class="row row-cols-2 mt-5 mb-3">
             <div class="col">

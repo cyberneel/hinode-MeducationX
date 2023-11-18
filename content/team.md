@@ -4,6 +4,7 @@ description: Meet the Team!
 date: 2023-10-22
 updated: 2023-10-22
 showComments: false
+layout: noo
 ---
 
 {{< image src="/img/BLUELOGOONLY.png" class="img-fluid w-50 rounded" wrapper="text-center" >}}
