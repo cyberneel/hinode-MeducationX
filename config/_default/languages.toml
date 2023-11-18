@@ -6,7 +6,7 @@
 # toml-docs-end lang-main
 # toml-docs-start lang-param
     [en.params.head]
-        tagline = "A Hugo Theme"
+        tagline = "Get Meducated"
     [en.params.social]
         title = "Follow us"
         caption = "Get meducated with MeducationX"

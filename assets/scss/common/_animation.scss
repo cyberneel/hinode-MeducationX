@@ -65,15 +65,6 @@ $grad: ();
     transform: scale(1.05) perspective(1px);
 }
 
-.card {
-    box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.4);
-    transition: box-shadow 0.3s;
-}
-
-.card:hover {
-    box-shadow: 0px 0px 20px 1px rgba(1, 117, 171, 0.885);
-}
-
 .round-cust-7px {
     border-radius: 7px;
 }
