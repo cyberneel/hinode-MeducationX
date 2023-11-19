@@ -4,6 +4,7 @@ title: Purpura Fulminans
 date: 2023-10-25
 description: Skin necrosis.
 tags: ["post"]
+draft: true
 thumbnail:
   url: img/Posts/Purpura-Fulminans/1.png
 #  author: Tim de Groot

@@ -4,6 +4,7 @@ title: Proteus Syndrome
 date: 2023-10-28
 description: A genetic disorder that results in the  overgrowth in various tissues of the body.
 tags: ["post"]
+draft: true
 thumbnail:
   url: img/Posts/Proteus-Syndrome/1.png
 #  author: Tim de Groot

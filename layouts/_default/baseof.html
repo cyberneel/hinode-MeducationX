@@ -21,7 +21,19 @@
     <head>
         {{ block "head" . }}{{ end -}}
     </head>
-    <body>
+    <script>
+        var myVar;
+        
+        function SiteLoaded() {
+          myVar = setTimeout(showPage, 3000);
+        }
+        
+        function showPage() {
+          document.getElementById("loader").style.display = "none";
+        }
+        </script>
+    <body onload="SiteLoaded()">
+        <div id="loader" class="lds-ripple" style="z-index: 999999; display: none;"><div></div><div></div></div>
         {{- partial "footer/scripts.html" (dict "filename" "js/critical.bundle.js" "match" "js/critical/**.js" "header" true "page" .) -}}
         <div class="d-flex flex-column meducation-background min-vh-100{{ if and .IsHome .Site.Params.home.style }} {{ .Site.Params.home.style }}{{ end }}">
             <div class="{{ if .Site.Params.navigation.fixed }}mb-4{{ end }}">
